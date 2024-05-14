@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gym</string>
+    <string name="logo_icon">Logo</string>
+    <string name="bin">Кошик</string>
+    <string name="Courses">Курси</string>
+    <string name="main_scene_text">Головна</string>
+    <string name="logo_of_app_1">Gym</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="course_start_date">Старт тренувань:</string>
+    <string name="course_lvl">Рівень:</string>
+    <string name="course_description">.</string>
+</resources>
